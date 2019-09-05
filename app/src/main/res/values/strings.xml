@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chatty</string>
+    <string name="connect_with_people_around_the_world">Testing testing the app</string>
+    <string name="description_text">Chatty. To login, use the username “superhero1” or “superhero2”</string>
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="name_email_com">Name@email.com</string>
+    <string name="general">#General</string>
+    <string name="no_new_message">No new message?</string>
+    <string name="send_your_first_message_bellow">Send your first message bellow.</string>
+    <string name="type_something">Type something</string>
+    <string name="groups">Groups</string>
+    <string name="create_group">Create group</string>
+    <string name="user_id">User ID:</string>
+    <string name="placeholder_uid">superhero1</string>
+    <string name="logging_in">Logging in...</string>
+    <string name="create_new_group">Create new group</string>
+    <string name="save_group">Save group</string>
+    <string name="saving_group">Saving group...</string>
+
+</resources>
